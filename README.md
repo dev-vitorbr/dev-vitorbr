@@ -4,9 +4,9 @@ Estou começando os trabalhos nessa rede. Sinta-se livre para comentar, comparti
 
 # Meus principais projetos
 
-- URL 1
+- https://dev-vitorbr.github.io/gabriel13666/
 
-- URL 2
+- https://dev-vitorbr.github.io/bikcraft/
 
 <!--
 **br-vitor/br-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
