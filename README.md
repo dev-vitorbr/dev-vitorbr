@@ -5,8 +5,9 @@ Estou começando os trabalhos nessa rede. Sinta-se livre para comentar, comparti
 # Meus principais projetos
 
 - https://dev-vitorbr.github.io/gabriel13666/
-
+- https://dev-vitorbr.github.io/animais-fantasticos/
 - https://dev-vitorbr.github.io/bikcraft/
+- https://dev-vitorbr.github.io/wildbeast/
 
 <!--
 **br-vitor/br-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
