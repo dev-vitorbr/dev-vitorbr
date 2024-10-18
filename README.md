@@ -8,6 +8,7 @@ Estou começando os trabalhos nessa rede. Sinta-se livre para comentar, comparti
 - https://dev-vitorbr.github.io/animais-fantasticos/
 - https://dev-vitorbr.github.io/bikcraft/
 - https://dev-vitorbr.github.io/wildbeast/
+- https://github.com/dev-vitorbr/awax
 
 <!--
 **br-vitor/br-vitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
