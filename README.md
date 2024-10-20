@@ -13,6 +13,7 @@
 <h2 align="left">My Main Projects</h2>
 
 - https://dev-vitorbr.github.io/gabriel13666/
+- <a href="https://dev-vitorbr.github.io/gabriel13666/" target="_blank">
 - https://dev-vitorbr.github.io/animais-fantasticos/
 - https://dev-vitorbr.github.io/bikcraft/
 - https://dev-vitorbr.github.io/wildbeast/
