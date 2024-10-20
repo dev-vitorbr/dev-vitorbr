@@ -12,12 +12,11 @@
 
 <h2 align="left">My Main Projects</h2>
 
-- https://dev-vitorbr.github.io/gabriel13666/
-- <a href="https://dev-vitorbr.github.io/gabriel13666/" target="_blank">Teste<a>
-- https://dev-vitorbr.github.io/animais-fantasticos/
-- https://dev-vitorbr.github.io/bikcraft/
-- https://dev-vitorbr.github.io/wildbeast/
-- https://github.com/dev-vitorbr/awax
+- <a href="https://dev-vitorbr.github.io/gabriel13666/" target="_blank">Gabriel 13666<a>
+- <a href="https://dev-vitorbr.github.io/animais-fantasticos/" target="_blank">Animais Fantásticos<a>
+- <a href="https://dev-vitorbr.github.io/bikcraft/" target="_blank">Bikcraft<a>
+- <a href="https://dev-vitorbr.github.io/wildbeast/" target="_blank">Wildbeast<a>
+- <a href="https://dev-vitorbr.github.io/awax/" target="_blank">Awax<a>
 
 <h2 align="left">Most Used Languages</h2>
 
